@@ -1,23 +1,7 @@
-### Установка плагина для Blender:
+### Install plugin
+Copy directory to `{blender directory}/{blender version}/scripts/addons/`
 
-По адресу установленного блендера идем в папку `{номер версии}/scripts/addons/` и выполняем там:
+Go to the menu __File -> User Preferences -> Add-ons__, in __Supported Level__ select __Testing__, enable __BPY: Fashion Project__.
 
-```
-ln -s {путь к репозиторию sp_market_manager_stable}/FashionProject/BlenderAddon/fashion_project
-```
-Например,
-```
-vmuser@my:~/Blender/2.77/scripts/addons$ ln -s ~/dev/sp_market_manager_stable/FashionProject/BlenderAddon/fashion_project
-```
-
-Далее в меню __File -> User Preferences -> Add-ons__, в __Supported Level__ выбираем __Testing__, включаем плагин __BPY: Fashion Project__.
-
-Запуск файлов примеров из папки с блендером:
-
-```
-./blender ~/dev/sp_market_manager_stable/FashionProject/files/none.blend
-```
-
-```
-./blender ~/dev/sp_market_manager_stable/FashionProject/files/points0.blend
-```
+### Examples
+All examples are located at `{fashion project directory}/files`
