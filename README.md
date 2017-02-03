@@ -19,7 +19,7 @@ We are always glad to answer your questions [here](https://github.com/TriumphLLC
 | Full source code of the framework                     |           +          |          +         |
 | Modifications allowed                                 |           +          |          +         |
 | Simple examples and demos                             |           +          |          +         |
-| License                                               |        [GPL v3](https://github.com/TriumphLLC/FashionProject/blob/master/LICENSE)       |     [commercial](https://github.com/TriumphLLC/FashionProject/License%20Agreement/Fashion_Project_Pro_License_en.pdf)     |
+| License                                               |        [GPL v3](https://github.com/TriumphLLC/FashionProject/blob/master/LICENSE)       |     [commercial](https://github.com/TriumphLLC/FashionProject/blob/master/License%20Agreement/Fashion_Project_Pro_License_en.pdf)     |
 | Can be used in commercial products                    |  with restrictions * |          +         |
 | Technical support                                     |                      |          +         |
 | Base patterns library                                 |                      |          +         |
