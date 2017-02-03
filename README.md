@@ -10,7 +10,7 @@ We are always glad to answer your questions [here](https://github.com/TriumphLLC
 
 ## License
 
-| Components and terms of use                           | Fashion Project Free | Fashin Project Pro |
+| Components and terms of use                           | Fashion Project Free | Fashion Project Pro |
 |-------------------------------------------------------|----------------------|--------------------|
 | Full source code of the framework                     |           +          |          +         |
 | Modifications allowed                                 |           +          |          +         |
