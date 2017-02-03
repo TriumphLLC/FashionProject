@@ -2,7 +2,7 @@ title: Fashion.project
 description: 
 google_analytics: UA-66066981-1
 show_downloads: true
-theme: jekyll-theme-tactile
+theme: jekyll-theme-architect
 
 gems:
   - jekyll-mentions
