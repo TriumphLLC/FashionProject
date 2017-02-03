@@ -5,10 +5,6 @@ Copy directory to `{blender directory}/{blender version}/scripts/addons/`
   
 Go to the menu __File -> User Preferences -> Add-ons__, in __Supported Level__ select __Testing__, enable __BPY: Fashion Project__.
  
-### Examples
-All examples are located at `{fashion project directory}/files`
-Go to the menu __File -> User Preferences -> Add-ons__, in __Supported Level__ select __Testing__, enable __BPY: Fashion Project__.
- 
 ## Support
 We are always glad to answer your questions [here](https://github.com/TriumphLLC/FashionProject/issues). We also offer assistance for Fashion Project owners with any technical issues which may arise.
 
