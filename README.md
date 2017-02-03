@@ -32,6 +32,6 @@ Registration address: 8-7 Vorontsovskaya street, Moscow, Russia, 109044
 
 Postal address: 18-3 2nd Krutitskij pereulok, Moscow, Russia, 109044
 
-Email: shkubelev.nikolay@triumph.msk.ru
+Email: info@fashionproject.pro
 
 Phone: +7 (495) 676-36-60
