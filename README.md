@@ -26,4 +26,8 @@ We are always glad to answer your questions [here](https://github.com/TriumphLLC
 If you need more information, please contact us.
 
 ## Contacts
-E-mail: shkubelev.nikolay@triumph.msk.ru
+Triumph LLC
+Registration address: 8-7 Vorontsovskaya street, Moscow, Russia, 109044
+Postal address: 18-3 2nd Krutitskij pereulok, Moscow, Russia, 109044
+Email: shkubelev.nikolay@triumph.msk.ru
+Phone: +7 (495) 676-36-60
