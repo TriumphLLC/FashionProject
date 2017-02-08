@@ -1,5 +1,20 @@
 # FashionProject
 
+##Introduction
+In the modern world, the way you dress plays an important role in a person’s image in society. It reflects your status and position, that is, it defines your role in society. In order to create clothing patterns you need to know the fundamentals of patterns(sizing tables, sizes of additions, etc). A template is usually first made out of paper, which is used to trace your pattern on fabric.
+Creating a pattern is a labor-intensive process, because it needs to be adjusted several times. Consequently, time spent on a pattern increases as you add additional sizes. 
+Fashion Project significantly speeds up the designing process and minimizes costs as your digital pattern can be altered and shown in 3D to test the quality.
+
+##Design Tool
+You have access to 32 tools, which allow you to design patterns of any difficulty. 
+
+##Advantages
+- Experiment with your image in 3D
+- Create your own pattern
+- Affordable price
+- Cuts your routine work to a minimum
+- Three platforms available (Windows, Mac, Linux)
+
 ## Installation
 Copy directory to `{blender directory}/{blender version}/scripts/addons/`
   
